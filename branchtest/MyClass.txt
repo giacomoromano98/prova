@@ -1,0 +1,1 @@
+Definisco la mia nuova classe nel branch branchclass
